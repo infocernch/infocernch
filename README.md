@@ -3,7 +3,7 @@
 # ByoungGeol Woo 🐤 <br/>
 
 <a href="https://brassy-yarrow-c8d.notion.site/IT-047f79b4a43b4d44a8dde05f4685f6f3"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:jefkdjsf1@naver.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:wbg030281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br/>
 ## STACK 🔨<br/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
@@ -19,8 +19,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<br/><br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jywhywhy&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jywhywhy&layout=compact&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superbly)](https://solved.ac/superbly/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infocernch&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infocernch&layout=compact&theme=dracula)
+
 </div>
