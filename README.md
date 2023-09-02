@@ -3,7 +3,8 @@
 # ByoungGeol Woo 🐤 <br/>
 
 <a href="https://brassy-yarrow-c8d.notion.site/IT-047f79b4a43b4d44a8dde05f4685f6f3"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:wbg030281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:wbg030281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://java-woo.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <br/>
 ## STACK 🔨<br/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
